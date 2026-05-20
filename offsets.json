@@ -1,0 +1,12 @@
+{
+  "game_version": "1.4.1",
+  "build_id": "5.1.1-0+++UE5+Release-5.1",
+  "use_pattern_scan": true,
+  "fallback_offsets": {
+    "GObjects": 141366272,
+    "GNames": 140339512,
+    "GWorld": 142793312,
+    "ProcessEvent": 52156208,
+    "AppendString": 50590944
+  }
+}
