@@ -8,13 +8,6 @@
   "game_version": "5.1.1.0",
   "last_updated": "2026-05-22",
   "use_pattern_scan": true,
-  "globals": {
-    "GObjects": 141366272,
-    "GNames": 140339512,
-    "GWorld": 142793312,
-    "ProcessEvent": 52156208,
-    "AppendString": 50590944
-  },
   "fields": {
     "Movement_GravityScale": 368,
     "Movement_JumpZVelocity": 380,
@@ -105,5 +98,10 @@
     "RequestDamageMapObject_ToServer": 41643600,
     "RequestUnlockPrivate_ServerInternal": 41362336,
     "UnlockDimensionLocker_ServerInternal": 41296320
-  }
+  },
+  "GObjects": 141366272,
+  "GNames": 140339512,
+  "GWorld": 142793312,
+  "ProcessEvent": 52156208,
+  "AppendString": 50590944
 }
