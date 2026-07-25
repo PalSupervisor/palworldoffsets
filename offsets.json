@@ -5,8 +5,8 @@
     "discord": "discord.gg/VsctnXnKRk",
     "format_version": 2
   },
-  "game_version": "5.1.1.0",
-  "last_updated": "2026-05-22",
+  "game_version": "v1.0.1.100619",
+  "last_updated": "2026-07-25",
   "use_pattern_scan": true,
   "fields": {
     "Movement_GravityScale": 368,
